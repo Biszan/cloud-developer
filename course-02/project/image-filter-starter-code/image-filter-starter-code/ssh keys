@@ -1,0 +1,22 @@
+ype a keypair name.
+(Default is aws-eb): my-iam-dev
+Generating public/private rsa key pair.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/ngt/.ssh/my-iam-dev
+Your public key has been saved in /home/ngt/.ssh/my-iam-dev.pub
+The key fingerprint is:
+SHA256:xC7m7gVqZ5Q876yZ+qBI43dqV13a5G8ALvzKvpCVNFo my-iam-dev
+The key's randomart image is:
++---[RSA 3072]----+
+|                 |
+|       .         |
+|       Eo        |
+|     .++o. o     |
+|     .XoS B      |
+|     =oO + +     |
+| o  +o= =   o    |
+|o..= Bo* .   o   |
+|..+.=+O*=   .    |
++----[SHA256]-----+
+
