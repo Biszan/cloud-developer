@@ -3,10 +3,13 @@
     "",
     "\\course-02",
     "\\course-02\\exercises",
-    "\\course-02\\exercises\\udacity-c2-restapi",
+    "\\course-02\\exercises\\udacity-c2-restapi\\src",
     "\\course-02\\project",
-    "\\course-02\\project\\image-filter-starter-code"
+    "\\course-02\\project\\image-filter-starter-code",
+    "\\course-02\\project\\image-filter-starter-code\\image-filter-starter-code",
+    "\\course-02\\project\\image-filter-starter-code\\image-filter-starter-code\\src",
+    "\\course-02\\project\\image-filter-starter-code\\src"
   ],
-  "SelectedNode": "\\course-02\\exercises\\udacity-c2-restapi",
+  "SelectedNode": "\\course-02\\project\\image-filter-starter-code\\src\\server.ts",
   "PreviewInSolutionExplorer": false
 }

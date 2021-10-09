@@ -25,7 +25,8 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
         //const filters = req.query;
 
         // destruct our path params
-        let { image_url } = req.query;
+        const image_url: string = req.query.image_url;
+        //let { image_url } = req.query;
 
         console.log(image_url);
         //console.log(filters);
